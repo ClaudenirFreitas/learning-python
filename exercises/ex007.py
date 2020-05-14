@@ -1,0 +1,5 @@
+note_01 = int(input('Note 01: '))
+note_02 = int(input('Note 02: '))
+print('Note01: ', note_01)
+print('Note02: ', note_02)
+print('AVG: {:.2f}'.format(((note_01 + note_02) / 2)))

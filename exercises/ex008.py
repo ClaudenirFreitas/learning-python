@@ -1,0 +1,5 @@
+input_number = input('Number: ')
+number = int(input_number)
+print(f'Number(m): {number}')
+print(f'Number(cm): {number * 100}')
+print(f'Number(mm): {number * 1000}')
